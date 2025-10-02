@@ -10,9 +10,14 @@ Ngày kết thúc: 09/10/2025
 * Thứ 6: Làm bài tập lớn
 * Thứ 7: Ôn lại toàn bộ
 * Chủ nhật: Nghỉ ngơi và tổng kết
+<<<<<<< Updated upstream
 * \# Study Plan
 * \- Học Git cơ bản
 * \- Học branch và merge
 * \- Thực hành stash
 * \- Ôn lại log và diff
+=======
+* \- Học Git nâng cao
+* \- Thực hành teamwork
+>>>>>>> Stashed changes
 * 
