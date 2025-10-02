@@ -13,3 +13,10 @@ Kỹ năng:
 - Lập trình Python
 - Giao tiếp
 - Lập trình Web
+
+Kế hoạch học tập:
+- Ôn tập lại kiến thức Git và GitHub trong tuần này.  
+- Dành ít nhất 2 tiếng mỗi ngày để luyện tập các lệnh Git.  
+- Thực hành quản lý branch và merge trên một project nhỏ.  
+- Học thêm về reset, revert và stash để hiểu sâu hơn.  
+- Viết lại ghi chú cá nhân sau mỗi buổi học để tổng kết kiến thức.  
