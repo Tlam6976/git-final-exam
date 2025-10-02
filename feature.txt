@@ -1,0 +1,6 @@
+# New Feature
+- Tính năng A cho phép người dùng quản lý dữ liệu.
+- Hỗ trợ thêm, sửa, xóa thông tin.
+- Dễ sử dụng, trực quan.
+- Sẽ tích hợp vào develop.
+- Đảm bảo không lỗi.
